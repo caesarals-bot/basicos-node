@@ -1,12 +1,12 @@
 # Notas:
 
 Primer programa en node:
-require
-NPM
-Package.json
-Yargs
-Recibir parametros por linea de comandos
-colors en consola
+-require
+-NPM
+-Package.json
+-Yargs
+-Recibir parametros por linea de comandos
+-colors en consola
 
 ```
 Options:
